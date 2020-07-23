@@ -1,0 +1,98 @@
+2020-07-07T21:36:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-content\plugins\woocommerce-pdf-invoices-packing-slips\includes\class-wcpdf-install.php à la ligne 8
+
+2020-07-07T21:37:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-content\plugins\woocommerce-services\classes\class-wc-connect-label-reports.php à la ligne 3
+
+2020-07-07T21:38:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-content\plugins\optinmonster\includes\class-am-notification.php à la ligne 2
+
+2020-07-07T21:39:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-content\plugins\woocommerce\packages\woocommerce-rest-api\src\Controllers\Version1\class-wc-rest-customers-v1-controller.php à la ligne 13
+
+2020-07-07T21:39:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-content\plugins\mailchimp-for-woocommerce\includes\class-mailchimp-woocommerce-rest-api.php à la ligne 3
+
+2020-07-07T21:50:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\Requests\Transport\cURL.php à la ligne 441
+
+2020-07-07T21:51:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-content\plugins\wp-cerber\common.php à la ligne 2008
+
+2020-07-07T21:52:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\wp-db.php à la ligne 2024
+
+2020-07-07T22:00:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-content\plugins\imagify\inc\deprecated\deprecated.php à la ligne 13
+
+2020-07-07T22:00:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\wp-db.php à la ligne 2024
+
+2020-07-07T22:03:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-admin\includes\plugin.php à la ligne 330
+
+2020-07-07T22:04:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-content\plugins\wp-cerber\cerber-scanner.php à la ligne 4515
+
+2020-07-07T22:07:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\wp-db.php à la ligne 2024
+
+2020-07-07T22:07:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\class-wp-hook.php à la ligne 271
+
+2020-07-07T22:07:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-content\plugins\jetpack\vendor\automattic\jetpack-connection\legacy\class-jetpack-ixr-client.php à la ligne 17
+
+2020-07-07T22:07:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-content\plugins\wordpress-seo\admin\links\class-link-watcher-loader.php à la ligne 11
+
+2020-07-07T22:07:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-content\plugins\imagify\inc\functions\admin-ui.php à la ligne 14
+
+2020-07-07T22:07:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-content\plugins\woocommerce-gateway-paypal-express-checkout\includes\class-wc-gateway-ppec-ips-handler.php à la ligne 3
+
+2020-07-07T22:07:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\l10n.php à la ligne 669
+
+2020-07-07T22:07:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\wp-db.php à la ligne 2024
+
+2020-07-07T22:14:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\wp-db.php à la ligne 2024
+
+2020-07-07T22:14:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\wp-db.php à la ligne 2024
+
+2020-07-07T22:34:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\wp-db.php à la ligne 2024
+
+2020-07-07T22:40:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\wp-db.php à la ligne 2024
+
+2020-07-07T22:46:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\Requests\Transport\cURL.php à la ligne 441
+
+2020-07-07T22:48:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\Requests\Transport\cURL.php à la ligne 163
+
+2020-07-07T22:49:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\wp-db.php à la ligne 2024
+
+2020-07-07T22:49:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\wp-db.php à la ligne 2024
+
+2020-07-07T22:49:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-content\themes\astra\inc\customizer\astra-pro\class-astra-pro-customizer.php à la ligne 12
+
+2020-07-07T22:49:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\plugin.php à la ligne 926
+
+2020-07-07T22:49:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\Requests\Transport\cURL.php à la ligne 163
+
+2020-07-07T22:50:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\wp-db.php à la ligne 2024
+
+2020-07-07T22:55:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\class-wp-image-editor.php à la ligne 489
+
+2020-07-07T22:56:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\medicomgroup\wp-includes\pomo\mo.php on line 280
+
+2020-07-07T22:56:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-admin\includes\template.php à la ligne 12
+
+2020-07-07T22:57:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\Requests\Transport\cURL.php à la ligne 441
+
+2020-07-07T22:58:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\functions.php à la ligne 5997
+
+2020-07-07T22:59:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-content\plugins\woocommerce-gateway-paypal-express-checkout\includes\exceptions\class-wc-gateway-ppec-missing-session-exception.php à la ligne 3
+
+2020-07-07T22:59:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-content\plugins\imagify\classes\Imagifybeat\Actions.php à la ligne 6
+
+2020-07-07T22:59:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\wp-db.php à la ligne 2024
+
+2020-07-07T23:00:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\wp-db.php à la ligne 2024
+
+2020-07-07T23:00:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\wp-db.php à la ligne 2024
+
+2020-07-07T23:01:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\medicomgroup\wp-includes\pomo\mo.php on line 315
+
+2020-07-07T23:01:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler.php à la ligne 234
+
+2020-07-07T23:02:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-admin\includes\plugin.php à la ligne 330
+
+2020-07-07T23:02:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-content\plugins\elementor\core\debug\inspector.php à la ligne 7
+
+2020-07-07T23:02:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-includes\wp-db.php à la ligne 2024
+
+2020-07-07T23:03:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-admin\includes\file.php à la ligne 1916
+
+2020-07-07T23:04:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\medicomgroup\wp-content\themes\astra\inc\class-astra-filesystem.php à la ligne 11
+
